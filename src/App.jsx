@@ -16,12 +16,12 @@ const App = () => {
   //  }, [contacts]);
   return (
     <>
-      <Section title="Phonebook 6 (with redux toolkit)">
+      <Section title="Phonebook 7 (with redux toolkit and backend with mockapi.io)">
         <Form />
       </Section>
       <Section title="Contacts">
         <Filter />
-        <Contacts  />
+        <Contacts />
       </Section>
     </>
   );
